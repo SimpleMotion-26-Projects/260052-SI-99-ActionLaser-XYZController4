@@ -2,16 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.1.4] - Unreleased
-
-### Added
--
+## [v0.0.0.6] - 2026-01-29
 
 ### Changed
--
-
-### Fixed
--
+- Rename quotation and invoice files from SI-*-v1 to .SI-* format
+- Add CSS stylesheets for quotation and invoice
+- Generate PDFs with new format
+- Add logo and signature assets
+- Update metadata with scaled pricing ($57,325.70)
 
 ## [0.0.1.3] - 2026-01-25
 
