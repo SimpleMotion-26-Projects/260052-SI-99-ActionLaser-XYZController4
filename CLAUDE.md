@@ -1,20 +1,12 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
-**260062-SI-99-ActionLaser-XYZController4** - Project repository
+**260062-SI** | Action Laser Pty Ltd | XYZ Controller 4
 
-ActionLaser XYZController4
+XYZ motion controller system for laser cutting machine (Unit 4).
 
-## Repository Details
+## Commands
 
-- **Organization:** SimpleMotion-26-Projects
-- **Project ID:** 260062
-- **Type:** Project
-
-## Notes
-
-- Global patterns and workflows are defined in `.claude/CLAUDE.md` (if present)
-- This local CLAUDE.md provides project-specific context
+- `/sm-quote` - Create quotation documents
+- `/sm-invoice` - Create invoice documents
